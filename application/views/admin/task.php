@@ -3,6 +3,8 @@
 
     <!-- Page Heading -->
     <h1 class="h3 mb-4 text-gray-800"><?php echo $title; ?></h1>
+    <p class="mb-4">Harap periksa pembayaran yang masuk secara berkala!</p>
+
 
     <!-- DataTales Example -->
     <div class="card shadow mb-4">
