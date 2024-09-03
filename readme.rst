@@ -1,71 +1,61 @@
-###################
-What is CodeIgniter
-###################
+## ✨ Project Descriptions 
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+<p> This application is made using the CI3 framework with the sb admin template and bootstrap. There are two users, namely buyers and sellers. In this project, I have the role of full stack developer. </p> 
 
-*******************
-Release Information
-*******************
+## 👧 User Requirements 
+<p> There are two system users, including admin and customers.</p> 
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+A. **Admin: Token Seller**
+1. Admin can log into the system.
+2. Admin can change password.
+3. Admin can create, update, and delete customers users.
+4. Admin can create, update, and delete role users.
+5. Admin can process management of task.
+6. Admin can create, update, and delete menu.
+6. Admin can create, update, and delete submenu.
 
-**************************
-Changelog and New Features
-**************************
+B. **Customer: Token Buyer**
+1. Customer can log into the system.
+2. Customer can change password.
+3. Customer can order tokens.
+4. Customer can view order history.
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+## 👩‍💻 System Development
+<p>Tools used in creating the system include:</p>
 
-*******************
-Server Requirements
-*******************
+A. **Development environtment:** XAMPP is used to provides a local development environment.
 
-PHP version 5.6 or newer is recommended.
+B. **IDE:** Visual Studio Code is code editor with extensive development features.
 
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+C. **Database:**
+  - MySQL is used a relational database management system.
+  - PHPMyAdmin is used to database management tool and SQL client.
 
-************
-Installation
-************
+D. **Web Framework:** CI3 is PHP web framework for web application development.
 
-Please see the `installation section <https://codeigniter.com/userguide3/installation/index.html>`_
-of the CodeIgniter User Guide.
+E. **CSS Framework:** Bootstrap is a popular open-source front-end framework used for designing responsive and mobile-first websites.
 
-*******
-License
-*******
+F. **Web Server:** Apache HTTP Server (commonly referred to as Apache) is a widely-used open-source web server software that delivers web content to users over the internet.
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+G. **Design tool:** Figma is used for system design such as user interface (UI) and wireframes.
 
-*********
-Resources
-*********
+## ✍️ Documentation
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Contributing Guide <https://github.com/bcit-ci/CodeIgniter/blob/develop/contributing.md>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
+1. Login
+<img src="demo_image/auth-login.png" alt="Login" width="800"/>
+2. Dashboard
+<img src="demo_image/admin-dashboard.png" alt="Dashboard" width="800"/>
+3. Task
+<img src="demo_image/admin-task.png" alt="Result" width="800"/>
+4. Menu Management
+<img src="demo_image/admin-menu management.png" alt="Result" width="800"/>
+5. Order
+<img src="demo_image/user-pemesanan.png" alt="Result" width="800"/>
+6. Payment
+<img src="demo_image/user-riwayat pembayaran.png" alt="Result" width="800"/>
+7. History Order
+<img src="demo_image/user-riwayat.png" alt="Result" width="800"/>
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+<img src="demo_image/dashboard-mobile.png" alt="Dashboard" width="200"/>
+3. Result
+<img src="demo_image/result-mobile.png" alt="Result" width="200"/>
