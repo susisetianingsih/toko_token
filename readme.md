@@ -55,7 +55,3 @@ G. **Design tool:** Figma is used for system design such as user interface (UI) 
 <img src="demo image/user-riwayat pembayaran.png" alt="Result" width="800"/>
 7. History Order
 <img src="demo image/user-riwayat.png" alt="Result" width="800"/>
-
-<img src="demo image/dashboard-mobile.png" alt="Dashboard" width="200"/>
-3. Result
-<img src="demo image/result-mobile.png" alt="Result" width="200"/>
