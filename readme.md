@@ -42,20 +42,20 @@ G. **Design tool:** Figma is used for system design such as user interface (UI) 
 ## ✍️ Documentation
 
 1. Login
-<img src="demo_image/auth-login.png" alt="Login" width="800"/>
+<img src="demo image/auth-login.png" alt="Login" width="800"/>
 2. Dashboard
-<img src="demo_image/admin-dashboard.png" alt="Dashboard" width="800"/>
+<img src="demo image/admin-dashboard.png" alt="Dashboard" width="800"/>
 3. Task
-<img src="demo_image/admin-task.png" alt="Result" width="800"/>
+<img src="demo image/admin-task.png" alt="Result" width="800"/>
 4. Menu Management
-<img src="demo_image/admin-menu management.png" alt="Result" width="800"/>
+<img src="demo image/admin-menu management.png" alt="Result" width="800"/>
 5. Order
-<img src="demo_image/user-pemesanan.png" alt="Result" width="800"/>
+<img src="demo image/user-pemesanan.png" alt="Result" width="800"/>
 6. Payment
-<img src="demo_image/user-riwayat pembayaran.png" alt="Result" width="800"/>
+<img src="demo image/user-riwayat pembayaran.png" alt="Result" width="800"/>
 7. History Order
-<img src="demo_image/user-riwayat.png" alt="Result" width="800"/>
+<img src="demo image/user-riwayat.png" alt="Result" width="800"/>
 
-<img src="demo_image/dashboard-mobile.png" alt="Dashboard" width="200"/>
+<img src="demo image/dashboard-mobile.png" alt="Dashboard" width="200"/>
 3. Result
-<img src="demo_image/result-mobile.png" alt="Result" width="200"/>
+<img src="demo image/result-mobile.png" alt="Result" width="200"/>
