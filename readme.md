@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="motion_logo.png" alt="Project Logo" width="300">
+  <img src="motionLogo.png" alt="Project Logo" width="300">
 </div>
 
 ## ✨ Project Descriptions 
