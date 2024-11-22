@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="motion_logo.png" alt="Project Logo" width="600">
+</div>
+
 ## ✨ Project Descriptions 
 
 <p> This application is made using the CI3 framework with the sb admin template and bootstrap. There are two users, namely buyers and sellers. In this project, I have the role of full stack developer. </p> 
